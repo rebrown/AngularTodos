@@ -1,0 +1,9 @@
+{
+  "firebase": "rb-todo",
+  "public": "angular-todo/dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
